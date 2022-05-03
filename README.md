@@ -36,3 +36,4 @@ This opens the file `study.dat` categorises each person and puts the result in t
 A7B3 B
 CC2E B
 ```
+your name
